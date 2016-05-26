@@ -1,3 +1,2 @@
 creating a branch so cool!
-creating a branch 'dev'  
-test stash will be confilct?
+creating a branch 'dev'
